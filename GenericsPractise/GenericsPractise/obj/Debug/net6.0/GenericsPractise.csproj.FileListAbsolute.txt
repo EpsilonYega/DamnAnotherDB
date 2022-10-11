@@ -1,0 +1,15 @@
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\bin\Debug\net6.0\GenericsPractise.exe
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\bin\Debug\net6.0\GenericsPractise.deps.json
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\bin\Debug\net6.0\GenericsPractise.runtimeconfig.json
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\bin\Debug\net6.0\GenericsPractise.dll
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\bin\Debug\net6.0\GenericsPractise.pdb
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\GenericsPractise.csproj.AssemblyReference.cache
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\GenericsPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\GenericsPractise.AssemblyInfoInputs.cache
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\GenericsPractise.AssemblyInfo.cs
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\GenericsPractise.csproj.CoreCompileInputs.cache
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\GenericsPractise.dll
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\refint\GenericsPractise.dll
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\GenericsPractise.pdb
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\GenericsPractise.genruntimeconfig.cache
+D:\Visual Studio sh#t\GenericsPractise\GenericsPractise\obj\Debug\net6.0\ref\GenericsPractise.dll
